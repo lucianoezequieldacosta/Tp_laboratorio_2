@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493433587 source:c:\users\asus\desktop\trabajopracticon2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493433683 c:\users\asus\desktop\trabajopracticon2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
